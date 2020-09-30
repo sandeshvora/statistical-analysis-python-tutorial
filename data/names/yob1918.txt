@@ -14,6 +14,7 @@ Alice,F,11591
 Florence,F,11318
 Lillian,F,9984
 Irene,F,9773
+Sandy,F,9688
 Rose,F,9568
 Louise,F,9108
 Doris,F,9061
